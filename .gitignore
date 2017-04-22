@@ -1,0 +1,4 @@
+# exclude the env folder (./flask)
+flask
+
+
